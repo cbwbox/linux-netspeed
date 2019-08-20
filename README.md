@@ -8,13 +8,13 @@ linux-netspeed-script
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: wget
 - 项目地址: https://github.com/wulimaxh/linux-netspeed
-
+-这个是我的  https://github.com/chwbox/linux-netspeed
 #### 脚本特点:
 集合多个加速方法。
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/wulimaxh/linux-netspeed/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/cbwbox/linux-netspeed/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh
 ```
 
 
